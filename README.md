@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Peter Zimmerman</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">Sr Full Stack Dev</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=retepz&label=Profile%20views&color=0e75b6&style=flat" alt="retepz" /> </p>
